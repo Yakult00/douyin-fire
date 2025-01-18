@@ -50,7 +50,7 @@ def run(playwright):
             # browser.close()  # 注释掉此处，以便继续执行后续代码
             # return  # 注释掉此处，以便继续执行后续代码
 
-        name = ["sbsb置顶", "老年人","大眼","予浅夏","是吗😳","qq飞车交流群"]
+        name = ["name1", "name2","name3","name4","name5","name6"]
         first_click_success = 0
         text = wenan()
         for i in range(len(name)):
