@@ -93,7 +93,7 @@ def run(playwright):
             print("私信按钮点击失败，程序退出")
             return
 
-        names = ["sbsb置顶", "大眼", "予浅夏", "是吗😳"]
+        names = ["name1", "name2", "name3", "name4"]
         first_click_success = 0
         text = wenan()
 
